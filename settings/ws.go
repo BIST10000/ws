@@ -1,8 +1,8 @@
 package settings
 
 import (
-	"auth/pkg/log"
 	"github.com/BIST10000/lazy-forum/pkg/forum"
+	"github.com/BIST10000/lazy-forum/pkg/log"
 	"github.com/gorilla/websocket"
 	"net/http"
 	"sync"
